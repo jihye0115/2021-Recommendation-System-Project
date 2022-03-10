@@ -10,7 +10,14 @@
 
 ## Project Result
 | |MF|PMF|BPMF|
-|---|---|---|---|
+|----|----|----|----|
 |train RMSE|0.90|0.80|0.80|
+|test RMSE|0.94|0.96|0.89|
+|epoch|50|100|40|
+|time|25m 51s|15m 5s|55m 35s|
 
 
+## Project Members
+박지원
+예지혜
+김지민
