@@ -1,4 +1,4 @@
-# Matrix Factorization을 이용한 추천시스템 알고리즘 구현
+# **Matrix Factorization을 이용한 추천시스템 알고리즘 구현**
 
 2021년 대학원 계산특론 수업의 Final Project로 진행
 
