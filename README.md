@@ -4,10 +4,12 @@
 
 <br/>
 <br>
-### Project Object
+
+## Project Object
 추천시스템의 협업 필터링 방법(Collaborative Filtering) 중 하나인 잠재 요인 모델(Latent Factor Model)을 Matrix Factorization, Probabilistic Matrix Factorization, Bayesian Probabilistic Matrix Factorization을 이용하여 구현하고 성능을 비교한다.
 
-### Project Result
+## Project Result
+
 | ------ | -- | -- |-----------|
 | Project #1 | Diffusion Model을 이용한 수요예측 | * DRAM <br>* Covid19  |  
 
