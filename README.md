@@ -2,15 +2,14 @@
 
 2021년 대학원 계산특론 수업의 Final Project로 진행
 
-<br/>
-<br>
+<br/> <br> <br/> <br>
+## **Reference Paper Reveiw**
 
+<br/><br>
 ## **Project Object**
 추천시스템의 협업 필터링 방법(Collaborative Filtering) 중 하나인 잠재 요인 모델(Latent Factor Model)을 Matrix Factorization, Probabilistic Matrix Factorization, Bayesian Probabilistic Matrix Factorization을 이용하여 구현하고 성능을 비교한다.
 
-<br/>
-<br>
-
+<br/> <br>
 ## **Project Result**
 | |**MF**|**PMF**|**BPMF**|
 |----|----|----|----|
