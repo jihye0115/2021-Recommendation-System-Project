@@ -8,7 +8,7 @@
 <br/> <br>
 
 ## Project Object
-추천시스템의 협업 필터링 방법(Collaborative Filtering) 중 하나인 잠재 요인 모델(Latent Factor Model)을 **MF, PMF, BPMF**을 이용하여 구현하고 성능을 비교한다.
+추천시스템의 협업 필터링 방법(Collaborative Filtering) 중 하나인 잠재 요인 모델(Latent Factor Model)을 **MF, PMF, BPMF**을 이용하여 구현하고 넷플릭스 데이터에 적용하여 성능을 비교한다.
 <br/> <br>
 
 ## Project Result
