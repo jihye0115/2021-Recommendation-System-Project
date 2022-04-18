@@ -1,7 +1,7 @@
 # Matrix Factorization을 이용한 추천시스템 알고리즘 구현
 
 2021년 대학원 계산특론 수업의 Final Project로 진행하였다.
-<br> 전반적인 내용은 [발표 자료]를, 구체적인 내용은 [보고서]와 코드를 참고하기 바란다.
+<br> 전반적인 내용은 [발표 자료](https://github.com/jihye0115/2021-Recommendation-System-Project/blob/main/Project%20Presentation.pdf)를, 구체적인 내용은 [보고서](https://github.com/jihye0115/2021-Recommendation-System-Project/blob/main/Project%20Preport.pdf)와 코드를 참고하기 바란다.
 
 <br/> <br> 
 ## Reference Paper Reveiw
