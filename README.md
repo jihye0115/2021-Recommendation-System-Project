@@ -3,7 +3,7 @@
 2021년 대학원 계산특론 수업의 Final Project로 진행하였다.
 <br> 전반적인 내용은 [발표 자료](https://github.com/jihye0115/2021-Recommendation-System-Project/blob/main/Project%20Presentation.pdf)를, 구체적인 내용은 [보고서](https://github.com/jihye0115/2021-Recommendation-System-Project/blob/main/Project%20Report.pdf)와 코드를 참고할 수 있다.
 
-<br/> <br> 
+<br> 
 ## Data
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43ce35c0-435a-4070-8cdc-8a858d1d28cd/Untitled.png)
 - 출처 : Netflix Prize 영화 평점 데이터로, 각 고객이 시청한 작품에 대한 평점
